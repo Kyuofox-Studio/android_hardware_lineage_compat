@@ -651,7 +651,7 @@ cc_library_shared {
     shared_libs: [
         "android.media.audio.common.types-V5-cpp",
         "audioclient-types-aidl-cpp",
-        "libaudioclient",
+        "libaudiobase",
         "libaudiofoundation",
         "libutils",
     ],
